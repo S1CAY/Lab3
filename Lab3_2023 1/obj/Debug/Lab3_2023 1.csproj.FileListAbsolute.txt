@@ -1,0 +1,8 @@
+C:\Users\Artem2\source\repos\lab3_2023\Lab3_2023 1\bin\Debug\Lab3_2023 1.exe.config
+C:\Users\Artem2\source\repos\lab3_2023\Lab3_2023 1\bin\Debug\Lab3_2023 1.exe
+C:\Users\Artem2\source\repos\lab3_2023\Lab3_2023 1\bin\Debug\Lab3_2023 1.pdb
+C:\Users\Artem2\source\repos\lab3_2023\Lab3_2023 1\obj\Debug\Lab3_2023 1.csproj.AssemblyReference.cache
+C:\Users\Artem2\source\repos\lab3_2023\Lab3_2023 1\obj\Debug\Lab3_2023 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem2\source\repos\lab3_2023\Lab3_2023 1\obj\Debug\Lab3_2023 1.csproj.CoreCompileInputs.cache
+C:\Users\Artem2\source\repos\lab3_2023\Lab3_2023 1\obj\Debug\Lab3_2023 1.exe
+C:\Users\Artem2\source\repos\lab3_2023\Lab3_2023 1\obj\Debug\Lab3_2023 1.pdb
